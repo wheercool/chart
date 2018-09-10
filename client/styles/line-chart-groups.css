@@ -1,0 +1,9 @@
+.group-axes {
+    flex: 1;
+    padding-left: 50px;
+}
+
+.line-chart-group {
+    display: flex;
+    flex-grow: 1;
+}

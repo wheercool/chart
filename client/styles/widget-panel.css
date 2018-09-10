@@ -1,0 +1,12 @@
+.panel {
+    margin-bottom: 0;   
+}
+
+.panel-body {
+    padding: 15px 0 0 0;
+}
+
+.widget-panel {
+	height: 100%;
+	overflow: hidden;
+}

@@ -1,0 +1,12 @@
+ .line-chart-container { 
+   
+    /*border: 3px solid red;*/
+ }
+ .line-chart-inner {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+.react-resizable-handle {
+  z-index: 1000;
+}

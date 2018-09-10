@@ -1,0 +1,29 @@
+.axis {
+    display: flex;
+    margin: 0 10px;
+}
+.axis .axis-value {
+    flex: 1;
+
+}
+
+.axis .axis-value input {
+    text-align: center;
+
+    width: 100%;
+
+    font-size: 1vw;
+}
+.axis .axis-max-value {
+    text-align: right;
+}
+.axis .axis-name {
+    flex: 2;
+
+    /*float: left;*/
+    text-align: center;
+    font-size: 1vw;
+}
+.axis-line {
+    border-bottom: 3px solid black;
+}

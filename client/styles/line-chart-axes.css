@@ -1,0 +1,6 @@
+.line-chart-axes {
+    align-items: flex-end;
+    justify-content: center;
+    overflow: hidden;
+    display: flex;
+}

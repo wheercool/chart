@@ -1,0 +1,12 @@
+.react-grid-item.panel {
+  /*overflow: auto;*/
+}
+
+/*.clearfix-container {
+    overflow: hidden;
+}*/
+.channel-group {
+    border: 1px solid red;
+    float: left;
+    box-sizing: border-box;
+}

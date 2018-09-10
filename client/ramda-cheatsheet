@@ -1,0 +1,19 @@
+RAMD cheetsheet:
+
+= Objects =
+Change 1 property
+R.assoc(propName, value, object)
+Change nested property
+R.assocPath([p1, p2], value, object)
+
+Update multiple properties depend on current value
+R.evolve({property: transform, property: transform})
+
+Change multiple values
+R.merge
+
+Delete property
+R.dissoc
+
+=List=
+R.adjust()
