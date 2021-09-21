@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-09-21T09:43:28.319Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="XjcbT2hzy5st0J_auluk" version="15.2.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-21T09:44:38.637Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="oFQ_B5g8nMG4RPtcHIw9" version="15.2.9" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -233,7 +233,7 @@
         <mxCell id="K-jKVqznmBLDgwKWgukP-124" value="Create Configuration" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="K-jKVqznmBLDgwKWgukP-119">
           <mxGeometry x="710" y="78" width="255" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="K-jKVqznmBLDgwKWgukP-126" value="Define initial product&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="K-jKVqznmBLDgwKWgukP-124">
+        <mxCell id="K-jKVqznmBLDgwKWgukP-126" value="Define initial options values&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="K-jKVqznmBLDgwKWgukP-124">
           <mxGeometry y="26" width="255" height="24" as="geometry" />
         </mxCell>
         <mxCell id="K-jKVqznmBLDgwKWgukP-125" value="For each configurable option list&#xa; available option values" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="K-jKVqznmBLDgwKWgukP-124">
